@@ -1,0 +1,49 @@
+# Java / Maven build files
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.log
+
+# Eclipse specific files
+.classpath
+.project
+.settings/
+bin/
+
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+*.iws
+out/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# VS Code (if ever used)
+.vscode/
+
+# Maven wrapper (optional)
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+
+# Backup / temp files
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Data or output files
+*.txt
+*.csv
+*.dat
+*.out
+
+# But keep resource files tracked
+!src/main/resources/*.csv
+!src/main/resources/*.txt
