@@ -11,7 +11,6 @@ import java.util.Scanner;
 public class Lab5a {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		// Use Scanner for getting integer and string input from user
 		Scanner nIn = new Scanner(System.in);//Scanner for Numbers
@@ -24,7 +23,7 @@ public class Lab5a {
 		//PRIMARY Do-While Loop
 		do {
 			//Introduce program to user
-			System.out.println("This program will take three numbers and displaay each one of them \n");
+			System.out.println("This program will take three numbers and display each one of them \n");
 
 			//Range of int numbers
 			int startNumber = 0;

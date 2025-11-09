@@ -12,8 +12,6 @@ import java.lang.Math;
 public class Lab7b {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
 
 		Scanner txt = new Scanner(System.in);//Scanner for user input
 
@@ -23,14 +21,12 @@ public class Lab7b {
 		boolean gameRun = false;//Play again feature
 		String ansW;
 
-
 		System.out.println("This program will use the Pythagorean Theorem to calculate the length of one side of a right triangle given the other two sides. \n" 
 				+ "\nThe program will ask the user which side they wish to calculate and the lengths of the other two sides. \n"
 				+ "Assume that the three sides are called a, b, and c where c is the hypotenuse (the side opposite the right angle) /n");
 
 		//PRIMARY Do-While Loop
 		do {
-
 			do {
 				System.out.println("\nWhich side of the triagnle do you wish to calculate? (a/b/c)");
 				sAnswer = txt.nextLine();

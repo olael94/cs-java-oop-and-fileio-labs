@@ -1,4 +1,4 @@
-/*Program: Lab5a
+/*Program: Lab5b
  * Name: Oliver Rivera
  * Date: October 11, 2023
  * Instructor: Sister Kristi Hays
@@ -12,7 +12,6 @@ import java.util.Scanner;
 public class Lab5b {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		Scanner nIn = new Scanner(System.in);//Scanner for Numbers
 		Scanner sIn = new Scanner(System.in);//Scanner for string Y or N feature
@@ -21,7 +20,6 @@ public class Lab5b {
 		boolean valid = false;//For Do-While Loops
 		boolean goAgain = false;//For the Play Again feature
 		String input = "";//For Y or N answer
-
 
 		//PRIMARY Do-While Loop
 		do {

@@ -12,12 +12,10 @@ import java.util.Scanner;
 public class Lab11b {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		Scanner userInput = new Scanner(System.in);
 
 		do {
-
 			//Introduce the program to the user
 			System.out.print("\nThis program will show the name of an apostle based on the order they were called with President Nelson as #1 \n" 
 					+ "Enter a number between 1 and 15 to display the corresponding apostle (or press Enter to quit): ");

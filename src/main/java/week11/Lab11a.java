@@ -5,13 +5,9 @@
  * Description: Debugging a Java Program
  */
 
-
 /*
  * Go to Window->Preferences->Java->Debug->Step Filtering and check all the boxes
  */
-
-
-
 package week11;
 
 import java.util.ArrayList;	// Needed to use ArrayLists
@@ -33,8 +29,7 @@ public class Lab11a {
 	 * Presents a menu to the user and calls the playMath() method with the associated argument.
 	 * 
 	 * @param	args	Command line input.  Not intended for use.
-	 * @return	void
-	 */
+     */
 	public static void main(String[] args) {
 		Scanner sIn = new Scanner(System.in); //Input Scanner for String
 		String choice;

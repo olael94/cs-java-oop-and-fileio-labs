@@ -28,7 +28,6 @@ public class Lab3b {
 		System.out.println("Please enter your weight in pounds: ");
 		int myWeight = in.nextInt();
 
-
 		//Converting Pounds to Kilograms & Inches to meters
 		double myKg = 0.45359237 * myWeight;
 
@@ -36,8 +35,6 @@ public class Lab3b {
 
 		//BMI calculation, Math.pow(base, power) to calculate square root of myKg
 		double myBMI = myKg / Math.pow(myMeters, 2);
-
-
 
 		//if, else if, and else statement for size table
 		if(myBMI < 18.5) {

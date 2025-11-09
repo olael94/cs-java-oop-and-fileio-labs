@@ -12,7 +12,6 @@ import java.util.Scanner;
 public class FinalExam1 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		// Create a Scanner object for user input
 		Scanner sIn = new Scanner(System.in);		//Scanner for string Y or N feature

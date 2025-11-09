@@ -12,7 +12,7 @@ import java.util.Scanner;
 public class Lab9i {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
 		//Initialize local variables
 		Scanner sIn = new Scanner(System.in);	//Input Scanner for String
 		int intNum = 0;

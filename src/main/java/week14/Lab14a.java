@@ -14,9 +14,6 @@ import java.util.ArrayList;
 public class Lab14a {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		
-		//To rename a variable select it > Right Click > Refactor > Rename > type new name > enter. This will AUTOMATICALLY CHANGE all of its INSTANCES
 		
 		// Create a new HashMap to store the relationship between names and calling
 		HashMap<String, String> calling = new HashMap<String, String>();                        //Result is a new

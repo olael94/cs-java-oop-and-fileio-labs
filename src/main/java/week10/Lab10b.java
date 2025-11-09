@@ -1,5 +1,5 @@
 /*
- * Program: Lab10a
+ * Program: Lab10b
  * Name: Oliver Rivera
  * Date: 11/15/2023
  * Instructor: Sister Kristy Hays

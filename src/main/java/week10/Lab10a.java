@@ -17,7 +17,6 @@ import java.util.Scanner;
 public class Lab10a {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		//This will locate the file name on the project folder. 
 		String fileName = "Student Assignment Scores.csv";

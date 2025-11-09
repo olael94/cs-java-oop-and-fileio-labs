@@ -17,7 +17,6 @@ import java.io.PrintWriter;
 
 public class Lab12b {
 
-	// TODO Auto-generated method stub
 	/* main() method displays a menu to the user and asks them to select a command.
 		  The method will continue to display the menu to the user until they wish to quit by selecting 'Exit' from the menu.
 		  The method also creates a new, empty shoppingList of type ArrayList<String>

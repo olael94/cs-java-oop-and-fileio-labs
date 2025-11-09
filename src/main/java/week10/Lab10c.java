@@ -17,7 +17,6 @@ import java.util.Scanner;
 public class Lab10c {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		//Stating my filePath that I want the scanner to read
 		String filePath = "Student Assignment Scores.csv";

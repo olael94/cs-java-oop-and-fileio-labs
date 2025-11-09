@@ -12,8 +12,6 @@ import java.time.LocalDate;
 public class Lab7a {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
 
 		Scanner checker = new Scanner(System.in);//Scanner for user input
 
@@ -24,10 +22,10 @@ public class Lab7a {
 		boolean gameRun = false;
 		String ansW;
 
-		System.out.println("This program will ask the user to enter a name and a birth year for a potential student. \n" 
+		System.out.println("This program will ask the user to enter a name and a birth year for a potential student. \n"
 				+ "The program will then determine what type of school, if any, the potential student is eligible to attend. \n");
 
-		//PRIMARY Do-WHile Loop
+		//PRIMARY Do-While Loop
 		do {
 			System.out.println("Please enter the name of a potential student: ");
 			name = checker.nextLine();

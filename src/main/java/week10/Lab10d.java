@@ -20,7 +20,7 @@ public class Lab10d {
 		//File Student_Scores = new File(filePath);
 		InputStream studentScores = Lab10d.class.getResourceAsStream("/"+ filePath);
 
-		// create a file object with try-with-resoruces. scanner automatically closes once the block finishes
+		// create a file object with try-with-resources. scanner automatically closes once the block finishes
 		try (Scanner scanner = new Scanner(studentScores)){
 
 			if (!scanner.hasNextLine()) {                // empty file guard

@@ -12,8 +12,6 @@ import java.util.Scanner;
 public class Lab5i {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
 
 		Scanner nIn = new Scanner(System.in);//Scanner for Numbers
 		Scanner sIn = new Scanner(System.in);//Scanner for string Y or N feature
@@ -22,7 +20,6 @@ public class Lab5i {
 		boolean valid = false;//For Do-While Loops
 		boolean goAgain = false;//For the Play Again feature
 		String input = "";//For Y or N answer
-
 
 		//PRIMARY Do-While Loop
 		do {

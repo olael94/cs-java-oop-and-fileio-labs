@@ -28,8 +28,6 @@ public class Lab3c {
 		System.out.println("Please enter member's Gender: ");
 		String myGender = in1.nextLine();
 
-
-
 		//if, else if, and else statement for Gender, Age Table
 
 		if (myAge >= 18) {
